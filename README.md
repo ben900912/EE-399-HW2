@@ -4,7 +4,7 @@
 ``Course: SP 2023 EE399``
 
 ## Abstract
-In this homework we are given a matrix that contains 2414 downsampled grayscale images of faces. Each image has 32x32 pixels. The objective of this is to perform different linear algebra operations to gain insight intot he dataset. 
+In this homework we are given a matrix that contains 2414 downsampled grayscale images of faces. Each image has 32x32 pixels. The objective of this is to perform different linear algebra operations to gain insight into the dataset. 
 
 ## Introduction and Overview
 This homework provides a comprehensive introcuation to the important concept in linear algebra and its application in machine learning. This also shows how to implement SVD. This provides a measure of how muh information is retained by projection.
